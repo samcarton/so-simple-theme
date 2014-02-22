@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            SamCarton.com
+description:      Personal blog and portfolio
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,18 +8,19 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Sam Carton
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          sam@samcarton.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        iSam_
+  facebook:       scarton
+  github:         samcarton
   stackexchange:  
-  linkedin:       
+  linkedin:       sjcarton
   instagram:      
   flickr:         
   tumblr:         
+  youtube:        meph3x6
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -38,12 +39,10 @@ links:
     url: /articles/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Perth
 future:      true
 pygments:    true
 markdown:    kramdown
